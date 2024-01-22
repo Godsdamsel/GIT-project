@@ -7,3 +7,5 @@ This screenshot holds commands: sudo (command e.g apt upgrade), pwd.
 This screenshot holds the commands: Suod, pwd, CommandsLinux and ls.
 
 ![sudo, pwd,ls](./images/Linux-project-Pg-2.png)
+
+![sudo apt, ]
