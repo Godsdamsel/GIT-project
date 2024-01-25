@@ -12,3 +12,6 @@ This screenshot holds the commands: ls, ls -R, ls -lh, cat and sudo apt.
 
 ![ls, ls -R, ls -lh, cat, sudo apt](images/Linux-project-Pg-3.png)
 
+THis screenshot holds the commands: LINUX.pem
+
+![LINUX.pem](images/Linux-project-Pg-4.png)
