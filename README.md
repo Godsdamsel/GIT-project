@@ -15,3 +15,8 @@ This screenshot holds the commands: ls, ls -R, ls -lh, cat and sudo apt.
 THis screenshot holds the commands: LINUX.pem
 
 ![LINUX.pem](images/Linux-project-Pg-4.png)
+
+This screenshot holds the commands: commands.sh, df -h. struggled a bit here
+
+![command.sh, df -h, deploy, etc](images/Linux-project-Pg-5.png)
+
