@@ -21,4 +21,9 @@ This screenshot holds the commands: commands.sh, df -h. struggled a bit here
 ![command.sh, df -h, deploy, etc](images/Linux-project-Pg-5.png)
 
 This screenshot holds commands: tar - kill
+
 ![tar - kill](images/Linux-project-Pg-6.png)
+
+This screenshot holds the commands: kill and ping
+
+![kill, ping](images/Linux-project-Pg-7.png)
