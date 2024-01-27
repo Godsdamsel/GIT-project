@@ -27,3 +27,8 @@ This screenshot holds commands: tar - kill
 This screenshot holds the commands: kill and ping
 
 ![kill, ping](images/Linux-project-Pg-7.png)
+
+This screenshot is actually the beginning of it all. It holds the commands to pair the keys.
+
+1[LINUX.PEM](images/Linux-project-pg-8.png)
+
